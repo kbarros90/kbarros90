@@ -1,2 +1,3 @@
 # who-am-i
-Some information about me
+
+** WORK IN PROGRESS **
