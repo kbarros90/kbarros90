@@ -8,7 +8,7 @@ whoami: {
   located_in: "Frankfurt am Main, Germany"
   skills: ["Linux", "Bash", "Kubernetes", "OpenShift", "Git", "Ansible"]
 }
-
+```
 
 :bulb: &nbsp; Currently in the process of learning more about Infrastructure and Cloud provisioning via Terraform.
 
