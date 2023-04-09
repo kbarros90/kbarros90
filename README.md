@@ -1,4 +1,4 @@
-### Hello out there! My name is Kevin.
+### Hello out there!
 
 #### Passionate Linux Administrator / Infrastructure Engineer
 
